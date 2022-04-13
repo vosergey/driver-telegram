@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "botman/botman": "^2.0"
+        "botman/botman": "dev-laravel9"
     },
     "require-dev": {
         "botman/studio-addons": "^1.0",
